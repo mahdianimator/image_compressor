@@ -17,7 +17,7 @@ git clone https://github.com/mahdianimator/image_compressor
 ```bash
 cd image_compressor
 ```
-How To Run
+# How To Run
 You can run the software from the following command :
 ```bash
 python img_compressor.py
